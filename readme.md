@@ -27,8 +27,9 @@
 
 #### Statistics
 
-	date_from - date in format dd.mm.yyyy
-	date_to - date in format dd.mm.yyyy
+`date_from` format: `dd.mm.yyyy`
+
+`date_to` format: `dd.mm.yyyy`
 
 	banner_ids = [...]
 
